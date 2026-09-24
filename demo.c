@@ -90,10 +90,85 @@ int main()
     // printf("%d ",++p); // 6 6
     // printf("%d",p);// 6
 
-    // relational operation
+    // relational operation (> , < , == ,!= , >= , <=)
 
-    // printf("%d",++p);
+    // printf("%d" , 5 != 5);
+
+    // conditional operation (&& , || , !)
 
 
+
+    // printf("%d" , !(2 > 6 || 1 > 4));
+
+    // int a = 5 , b = 7;
+
+    // if(a > b){
+    //     printf("A");
+    // }
+    // else {
+    //     printf("B");
+    // }
+
+    // ternary operator
+    // int time = 18;
+    // (time < 18) ? printf("Good day.") : printf("Good night.");
+
+    // int a = 90;
+    // int a,b;
+    // printf("Your marks: ");
+    // scanf("%d",&a);
+
+    // if(a > 100 || a < 0) {
+    //     printf("not in range\n");
+    //     printf("Sorry\n");
+    //     printf("gimme a number between 0-100");
+    //     return 0;
+    // }
+
+    // if(a >= 80){
+    //     printf("A+");
+    // }
+    // else if(a >= 70){
+    //     printf("A");
+    // }
+    // else if(a >= 60){
+    //     printf("A-");
+    // }
+    // else {
+    //     printf("Fail");
+    // }
     // printf("%d", a);
+
+
+
+
+
+    // find the largest among three 
+    // int a = 1 , b = 2 , c = 3;
+
+
+    // if(a > b) {
+    //     if(a > c) {
+    //         printf("A");
+    //     }
+    //     else {
+    //         printf("C");
+    //     }
+    // }
+    // else {
+    //     if(b > c) {
+    //         printf("B");
+    //     }
+    //     else{
+    //         printf("C");
+    //     }
+
+    // }
+
+
+
+
+
+
+
 }
