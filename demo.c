@@ -71,16 +71,12 @@ int main()
     // printf("%c", b);
     // printf("%c", c);
 
-
     // const int a = 7;
 
     // a = 9;
 
-    
-
-
     // post increment
-    // printf("%d " , p); 
+    // printf("%d " , p);
     // printf("%d ",p++); // 5 p = 6
     // printf("%d",p);
 
@@ -95,8 +91,6 @@ int main()
     // printf("%d" , 5 != 5);
 
     // conditional operation (&& , || , !)
-
-
 
     // printf("%d" , !(2 > 6 || 1 > 4));
 
@@ -139,13 +133,8 @@ int main()
     // }
     // printf("%d", a);
 
-
-
-
-
-    // find the largest among three 
+    // find the largest among three
     // int a = 1 , b = 2 , c = 3;
-
 
     // if(a > b) {
     //     if(a > c) {
@@ -164,7 +153,6 @@ int main()
     //     }
 
     // }
-
 
     // int age;
     // int salary;
@@ -192,10 +180,7 @@ int main()
     //     }
     // }
 
-
-
     // loop : while , for , do while
-
 
     // for(initialization;condition;increment/decrement)
     // print the summation between 1 to 100 using for loop
@@ -215,8 +200,7 @@ int main()
     // printf("sq : %d\n" , sq);
     // printf("cube : %d", cube);
 
-
-    // int i = 1; // initialization 
+    // int i = 1; // initialization
     // while(i<=10){ // condition
     //     printf("hello\n");
     //     i++; // increment/decrement
@@ -225,20 +209,24 @@ int main()
     // flowchart - 3;
     // C prog - 4;
 
-
     // for(int i = 1;i<=10;i++){
     //     // if(i > 7) break;
-        
 
     //     if(i == 7) continue;
     //     printf("%d\n",i);
     // }
 
+    // int a[] = {25, 50, 75, 100};
+
+    // printf("%zu", sizeof(a)/sizeof(a[0]));
+
+    // int myNumbers[] = {25, 50, 75, 100};
+    // int i;
 
 
+    // area of a circle:
 
+    
 
-
-
-
+    
 }
