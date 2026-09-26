@@ -1,3 +1,2 @@
-if(a > 100 || a < 0) {
-        printf("not in range");
-    }
+printf("7crore\n");
+            printf("baba ami raji");

@@ -166,6 +166,76 @@ int main()
     // }
 
 
+    // int age;
+    // int salary;
+
+    // printf("your age: ");
+    // scanf("%d",&age);
+    // printf("your salary: ");
+    // scanf("%d",&salary);
+
+    // if(age > 20 && age < 30){
+    //     if(salary > 100){
+    //         printf("biye dbo");
+    //     }
+    //     else {
+    //         printf("biye dbo nh");
+    //     }
+    // }
+    // else {
+    //     if(salary > 1000){
+    //         printf("7crore\n");
+    //         printf("baba ami raji");
+    //     }
+    //     else{
+    //         printf("biye dbo nh");
+    //     }
+    // }
+
+
+
+    // loop : while , for , do while
+
+
+    // for(initialization;condition;increment/decrement)
+    // print the summation between 1 to 100 using for loop
+
+    // int n;
+    // scanf("%d",&n);
+    // int sq = 0;
+    // int cube = 0;
+
+    // for(int i=1;i<=n;i++){
+    //     // printf("hello world\n");
+    //     // printf("%d\n",i);
+    //     sq = sq + i * i;
+    //     cube = cube + i * i * i;
+    // }
+    // // printf("%d" , sum);
+    // printf("sq : %d\n" , sq);
+    // printf("cube : %d", cube);
+
+
+    // int i = 1; // initialization 
+    // while(i<=10){ // condition
+    //     printf("hello\n");
+    //     i++; // increment/decrement
+    // }
+
+    // flowchart - 3;
+    // C prog - 4;
+
+
+    // for(int i = 1;i<=10;i++){
+    //     // if(i > 7) break;
+        
+
+    //     if(i == 7) continue;
+    //     printf("%d\n",i);
+    // }
+
+
+
 
 
 
